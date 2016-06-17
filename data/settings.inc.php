@@ -1,0 +1,28 @@
+<?php 
+return array (
+  'template_name' => 'taoczlan',
+  'style_name' => 'default',
+  'waptemplate_name' => 'default',
+  'wapstyle_name' => 'default',
+  'site_logo' => 'data/files/mall/settings/site_logo.gif',
+  'site_name' => '周涛微信商城',
+  'site_title' => '周涛微信商城',
+  'site_description' => '周涛微信商城',
+  'site_keywords' => '周涛微信商城',
+  'icp_number' => '',
+  'site_status' => '1',
+  'closed_reason' => '商城维护中，暂时关闭，请稍候访问。',
+  'hot_search' => '',
+  'default_store_logo' => 'data/files/mall/settings/default_store_logo.gif',
+  'time_zone' => '8',
+  'time_format_simple' => 'Y-m-d',
+  'time_format_complete' => 'Y-m-d H:i:s',
+  'price_format' => '¥%s',
+  'statistics_code' => '',
+  'sitemap_enabled' => true,
+  'sitemap_frequency' => 1,
+  'rewrite_enabled' => false,
+  'guest_comment' => true,
+  'enable_radar' => false,
+);
+?>
